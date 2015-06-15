@@ -1,6 +1,13 @@
 
-*.xml
+#*.xml
 
 *.iml
+encodings.xml
+misc.xml
+modules.xml
+scope_settings.xml
+vcs.xml
+workspace.xml
+
 
 PolarisPython/RainbowRed/.idea/.name
